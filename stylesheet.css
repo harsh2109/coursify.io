@@ -1,0 +1,32 @@
+.footer {
+  position: fixed;
+  left: 0;
+  height: 40%;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+.page-footer {
+    background-color:lemonchiffon;
+}
+.footer-copyright {
+    background-color:lightblue;
+}
+.modal-video-placeholder {
+  width: 100%;
+  position: relative;
+  cursor: pointer;
+}
+.playvideobutton {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 75px;
+  height: 75px;
+}
+header {
+  position: relative;
+  top: 20%;
+}
